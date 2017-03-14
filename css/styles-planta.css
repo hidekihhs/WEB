@@ -25,10 +25,23 @@
 				font-weight: bold;
 				font-style: italic;
 			}
+
+			.imgs img{
+				display: inline-block;
+				margin: 0 auto;
+			}
+
+			.imgs {
+				text-align: center;
+			}
+
 			img{
 				border: 4px solid limegreen;
-				text-align: center;
+			}
 
+			.id2 img {
+				display: block;
+				margin: 0 auto;
 			}
 
 			li{
